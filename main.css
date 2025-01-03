@@ -9,4 +9,4 @@ input{font-family: 'Custom'; background-color:hsla(0, 0%, 0%, 0.5); color:white;
 input::placeholder{color:white;}
 button{font-family: 'Custom'; background-color:hsla(0, 0%, 0%, 0.5); color:white;}
 a{text-decoration: none; color:white;}
-#random{background-repeat: no-repeat; background-attachment: fixed; background-size: cover; background-position: center;}
+#random{background-repeat: no-repeat; background-attachment: fixed; background-size: cover;}
