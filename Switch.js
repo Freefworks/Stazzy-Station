@@ -1,0 +1,1 @@
+var x = 1; function switchImg() {if (x == 1) {document.getElementById("imgToSwitch").src = "16 Ostrinus TP.png"; x++;} else if (x == 2) {document.getElementById("imgToSwitch").src = "17 Catsworth TP.png"; x++;} else if (x == 3) {document.getElementById("imgToSwitch").src = "1 Stazzy TP.png"; x = 1;}}
