@@ -1,8 +1,8 @@
-ul{list-style-type: none; background-color:hsla(0, 0%, 0%, 0.5); color:white; transform: translateX(-100%); -webkit-transform: translateX(-100%); animation: slide-in 0.5s forwards; -webkit-animation: slide-in 0.5s forwards;}
+ul{list-style-type: none; background-color:hsla(0, 0%, 0%, 0.5); color:white; transform: translateX(-100%); -webkit-transform: translateX(-100%); animation: slide-in 0.5s forwards; -webkit-animation: slide-in 0.5s forwards; list-style-position: inside;}
 body{font-family: 'Custom'; background-color: black;}
 h1{background-color:hsla(0, 0%, 0%, 0.5); color:white; transform: translateX(-100%); -webkit-transform: translateX(-100%); animation: slide-in 0.5s forwards; -webkit-animation: slide-in 0.5s forwards;}
 p{background-color:hsla(0, 0%, 0%, 0.5); color:white; transform: translateX(-100%); -webkit-transform: translateX(-100%); animation: slide-in 0.5s forwards; -webkit-animation: slide-in 0.5s forwards;}
-ol{background-color:hsla(0, 0%, 0%, 0.5); color:white; transform: translateX(-100%); -webkit-transform: translateX(-100%); animation: slide-in 0.5s forwards; -webkit-animation: slide-in 0.5s forwards;}
+ol{background-color:hsla(0, 0%, 0%, 0.5); color:white; transform: translateX(-100%); -webkit-transform: translateX(-100%); animation: slide-in 0.5s forwards; -webkit-animation: slide-in 0.5s forwards; list-style-position: inside;}
 img{background-color:hsla(0, 0%, 0%, 0.5); transform: translateX(-100%); -webkit-transform: translateX(-100%); animation: slide-in 0.5s forwards; -webkit-animation: slide-in 0.5s forwards;}
 @font-face {font-family: 'Custom'; src: url('Kabel\ Bold.ttf');}
 input{font-family: 'Custom'; background-color:hsla(0, 0%, 0%, 0.5); color:white; transform: translateX(-100%); -webkit-transform: translateX(-100%); animation: slide-in 0.5s forwards; -webkit-animation: slide-in 0.5s forwards;}
